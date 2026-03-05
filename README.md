@@ -27,6 +27,3 @@ portfolio-website
 ## How to Run
 1. Download the repository
 2. Open index.html in any web browser
-
-## Author
-Diya Thomre
